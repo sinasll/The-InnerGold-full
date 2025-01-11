@@ -1,5 +1,5 @@
 // List of 6 generated confirmation codes
-const validCodes = ['SINA', 'XAFAR4', 'G7H8I9', 'J0K1L2', 'M3N4O5', 'P6Q7R8'];
+const validCodes = ['DASF4X', 'XAFAR4', 'SINA00', 'ESAM98', 'M3N4O5', 'P6Q7R8'];
 
 document.getElementById('codeForm').addEventListener('submit', function(event) {
   event.preventDefault();
